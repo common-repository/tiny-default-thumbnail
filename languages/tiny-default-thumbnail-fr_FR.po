@@ -1,0 +1,47 @@
+# Copyright (C) 2021 Vincent Dubroeucq
+# This file is distributed under the same license as the Tiny Default Thumbnail plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tiny Default Thumbnail 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tiny-default-"
+"thumbnail\n"
+"Language-Team: Vincent Dubroeucq <vincent@vincentdubroeucq.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-03-12 15:36+0100\n"
+"PO-Revision-Date: 2021-03-14 14:20+0100\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Domain: tiny-default-thumbnail\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#. Plugin Name of the plugin
+msgid "Tiny Default Thumbnail"
+msgstr "Tiny Default Thumbnail"
+
+#. Description of the plugin
+msgid "Declares a setting for a default thumbnail."
+msgstr ""
+"Permet d'ajouter des images mises en avant par défaut pour vos articles."
+
+#. Author of the plugin
+msgid "Vincent Dubroeucq"
+msgstr "Vincent Dubroeucq"
+
+#. Author URI of the plugin
+msgid "https://vincentdubroeucq.com/"
+msgstr "https://vincentdubroeucq.com/"
+
+#: tiny-default-thumbnail.php:44
+msgid "Tiny Thumbnail Settings"
+msgstr "Réglages de Tiny Thumbnail"
+
+#: tiny-default-thumbnail.php:45
+msgid "Tweak your thumbnail settings here."
+msgstr "Modifier vos réglages d'images mises en avant."
+
+#: tiny-default-thumbnail.php:53
+msgid "Default thumbnail"
+msgstr "Image mise en avant par défaut"
